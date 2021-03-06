@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "d:\\Programming\\Projects\\Django 3\\mfdw_project\\.venv\\Scripts\\python.exe"
+    "python.pythonPath": "d:\\Programming\\Projects\\Django 3\\mfdw_project\\.venv\\Scripts\\python.exe",
+    "todo-tree.tree.showBadges": false
 }

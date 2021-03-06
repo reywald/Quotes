@@ -26,6 +26,7 @@ SECRET_KEY = '=e#+83i#__4h4&k=na%=%&ow_txje9+q()oz^9hnz4t7-5@z#y'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['127.0.0.1']  -- For when DEBUG is turned off
 
 
 # Application definition
