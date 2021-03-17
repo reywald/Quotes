@@ -6,6 +6,7 @@ from . models import Page
 from . forms import ContactForm
 
 
+# def index(request):
 def index(request, pagename=''):
     pagename = '/' + pagename
     pg = get_object_or_404(Page, permalink=pagename)
